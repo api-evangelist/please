@@ -37,7 +37,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 image: https://framerusercontent.com/images/yfagPQMifoEwGBuBM4sj59CDA.jpg
 tags:
 - Company
@@ -50,6 +50,8 @@ tags:
 - Task Management
 apis: []
 common:
+- url: https://pleaseplatforms.substack.com/feed
+  type: BlogRSS
 - type: DomainSecurity
   url: security/please-domain-security.yml
 - type: Website
